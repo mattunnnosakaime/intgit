@@ -12,6 +12,9 @@ git commitを入力するとVIMが動作する。半角英数字のみ入力可�
 ターミナルに表示が戻ったら
 git remote add origin https://github.com/mattunnnosakaime/intgit.git
 と入力。
+その後
+git push -u origin master
+を入力↑忘れないように
 認証があった場合はWeb認証
 終わったらファイルがWebのGithubに更新されてることを確認できる。
 
